@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Prepared data and artifacts
+data/
+result/
+model_para/
+log/
+log_tensorboard/
+*.pkl
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+*.swp

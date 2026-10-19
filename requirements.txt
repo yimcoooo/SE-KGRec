@@ -1,0 +1,8 @@
+torch>=2.0
+numpy
+scipy
+scikit-learn
+networkx
+tqdm
+prettytable
+transformers  # relation-level semantic encoding (data_processing/preprocess_*.py)
