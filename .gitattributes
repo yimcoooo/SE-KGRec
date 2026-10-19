@@ -1,0 +1,14 @@
+# Normalize line endings so shell scripts run on Linux/macOS
+* text=auto eol=lf
+
+*.sh   text eol=lf
+*.py   text eol=lf
+*.md   text eol=lf
+*.txt  text eol=lf
+
+# Binary assets
+*.png  binary
+*.jpg  binary
+*.pdf  binary
+*.zip  binary
+*.gz   binary
